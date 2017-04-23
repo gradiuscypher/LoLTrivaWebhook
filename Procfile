@@ -1,0 +1,1 @@
+web: python lol_trivia.py
